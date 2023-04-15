@@ -1,0 +1,2 @@
+# RSA-Toolkit-Comprehensive-Encryption-and-Decryption-in-C
+My C-based RSA encryption and decryption tool is an all-in-one solution, featuring stress-testing and performance analysis tools. Brute-force attacks, including prime factorization, have been thwarted, and secure data encryption and decryption application have been created, employing socket programming for seamless communication with a server.
