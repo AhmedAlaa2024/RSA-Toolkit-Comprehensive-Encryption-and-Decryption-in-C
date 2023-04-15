@@ -69,6 +69,10 @@ My C-based RSA encryption and decryption tool is an all-in-one solution, featuri
 
   7. If you want to replot the produced data due to step 5 or 6, open the python note book `analysis.ipynb` and run it.
 
+## RSA Performance Under Stress Test
+![RSA Encryption Time Analysis](PerformanceAnalysis/RSA_Encryption_Timing_Analysis.png "RSA Encryption Time Analysis")
+![RSA Decryption Time Analysis](PerformanceAnalysis/RSA_Decryption_Timing_Analysis.png "RSA Decryption Time Analysis")
+![RSA Prime Factorization Attack Time Analysis](PerformanceAnalysis/RSA_Prime_Factorization_Attack_Timing_Analysis.png "RSA Prime Factorization Attack Time Analysis")
 
 <br>
 <br>
